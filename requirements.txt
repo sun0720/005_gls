@@ -1,0 +1,7 @@
+# Python 3.11.
+# [CONFIRM] pins below come from the interpreter that ran this script;
+#           verify them against the environment used for the reported runs.
+#           `pip freeze > requirements.txt` in that environment is authoritative.
+matplotlib==3.11.2
+numpy==2.4.6
+scipy==1.17.1
